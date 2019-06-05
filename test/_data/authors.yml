@@ -1,0 +1,16 @@
+# Authors
+
+Sudhanshu Gupta:
+  name        : "Sudhanshu Gupta"
+  bio         : "Software Engineer"
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "sudhanshu97gupta@gmail.com"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:sudhanshu97gupta@gmail.com"
+    - label: "Sudhanshu Gupta"
+      icon: "fas fa-fw fa-link"
+      url: "https://sudhanshu-gupta.github.io"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/sudhanshu9gupta"
